@@ -15,7 +15,7 @@ public class Program_01 {
 		System.out.print("Enter number to print in loop: ");
 		n = s.nextInt();
 		for (int i = 0; i < n; i++) {
-			System.out.println("The number: "+i);
+			System.out.println("The number: "+(i+1));
 		}
 	}
 }
