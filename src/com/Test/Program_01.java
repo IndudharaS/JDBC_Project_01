@@ -21,5 +21,6 @@ public class Program_01 {
 		for (int i = 0; i < n; i++) {
 			System.out.println("The number: "+(i+1));
 		}
+		s.close();
 	}
 }
